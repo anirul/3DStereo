@@ -1,0 +1,72 @@
+test { 0 0 0 } { 0 0 -1 } {
+	block_vector 13 {
+		{ 0 0 0 }
+		{ 1.5 1.5 1.5 }
+		{ 0 0 0 0 }
+		block_couloirfin {
+			{ 0 0 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_couloirdroit {
+			{ 0 0 6 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_couloircroisement {
+			{ 0 0 14 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_couloirdroitbord {
+			{ 0 0 22 }
+			{ 1 1 1 }
+			{ 0 1 0 180 }
+		}
+		block_passerelle8m {
+			{ 0 0 26 }
+			{ 1 0.5 1 }
+			{ 0 1 0 90 }
+		}
+		block_coin {
+			{ 0 0 36 }
+			{ 1 0.5 1 }
+			{ 0 0 0 0 }
+		}
+		block_passerellebreak {
+			{ -2 0 36 }
+			{ 1 0.5 1 }
+			{ 0 0 0 0 }
+		}
+		block_couloirsalle {
+			{ 8 0 14 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_couloirfin {
+			{ 14 0 14 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		block_couloirfin {
+			{ 8 0 8 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_hit {
+			13
+			{ 8 0 8 }
+			{ 9 1 9 }
+		}
+		block_couloirfin {
+			{ 8 0 20 }
+			{ 1 1 1 }
+			{ 0 1 0 180 }
+		}
+		block_couloirfin {
+			{ -6 0 14 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+	}
+}

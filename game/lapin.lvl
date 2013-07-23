@@ -1,0 +1,580 @@
+test { 0 0 0 } { 0 0 -1 } {
+	block_vector 110 {
+		{ 0 0 0 }
+		{ 1 1 1 }
+		{ 0 0 0 0 }
+		block_debug {
+			{ 0 0 0 }
+			{ 1 1 1 }
+			{ 0 0 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		
+		block_cubesky {
+			{ -5 0 18 }
+			{ 60 24 1 }
+			{ 0 1 0 90 }
+		}
+		block_cubesky {
+			{ -35 0 28 }
+			{ 1 24 -20 }
+			{ 0 1 0 180 }
+		}
+		block_cubesky {
+			{ 25 0 28 }
+			{ 1 24 20 }
+			{ 0 1 0 180 }
+		}
+		block_topsky {
+			{ -5 12 28 }
+			{ 60 1 20 }
+			{ 0 1 0 180 }
+		}
+		block_sol {
+			{ -5 -12 28 }
+			{ 60 1 20 }
+			{ 0 1 0 180 }
+		}
+		block_croisementpasse {
+			{ 4 0 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_4pilier {
+			{ 4 -6 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}		
+		block_passerelle8m {
+			{ 4 0 2 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}		
+		block_coin {
+			{ 0 0 -4 }
+			{ -1 1 -1 }
+			{ 0 0 0 0 }
+		}
+		block_coin {
+			{ 4 0 -4 }
+			{ 1 1 -1 }
+			{ 0 0 0 0 }
+		}
+		block_coin {
+			{ 0 0 0 }
+			{ -1 1 1 }
+			{ 0 0 0 0 }
+		}				
+		block_passerelle8m {
+			{ 14 0 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}			
+		block_croisementpasse {
+			{ 10 0 32 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_4pilier {
+			{ 10 -6 32 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}		
+
+		block_balcon {
+			{ 8 0 32 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_balcon {
+			{ 10 0 34 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_passerelle8m {
+			{ 10 0 22 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_cube {
+			{ 10 0 22 }
+			{ 1 1 -1 }
+			{ 0 1 0 90 }
+		}
+		block_cube {
+			{ 10 -8 22 }
+			{ 1 1 -1 }
+			{ 0 1 0 90 }
+		}
+		block_passerelle1m {
+			{ 10 0 22 }
+			{ 1 1 -1 }
+			{ 0 1 0 90 }
+		}
+		block_coin {
+			{ 10 0 19 }
+			{ 1 1 -1 }
+			{ 0 0 0 0 }
+		}
+		block_passerelle1m {
+			{ 7 0 19 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_passerelle1m {
+			{ 8 0 19 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_coin {
+			{ 4 0 19 }
+			{ -1 1 1 }
+			{ 0 0 0 0 }
+		}
+
+			block_cube {
+				{ 4 0 16 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_cube {
+				{ 4 -8 16 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_passerelle1m {
+				{ 4 0 16 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+	
+			block_passerelle1m {
+				{ 4 0 11 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_passerelle1m {
+				{ 4 0 10 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_passerelle1m {
+				{ 4 0 14 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_passerelle1m {
+				{ 4 0 13 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_passerelle1m {
+				{ 4 0 12 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_cube {
+				{ 10 0 16 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_cube {
+				{ 10 -8 16 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_passerelle1m {
+				{ 4 0 15 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+		
+		block_passerelle1m {
+			{ 13 0 32 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_passerelle1m {
+			{ 14 0 32 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+
+		block_mure {
+			{ 14 8 0 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		block_mure {
+			{ 14 8 8 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		block_mure {
+			{ 14 8 -8 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		block_mure2 {
+			{ 14.5 -8 0 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		block_mure2 {
+			{ 14.5 -8 8 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		block_mure2 {
+			{ 14.5 -8 -8 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		
+		
+		block_sallepasserelle {
+			{ 18 0 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_salle_bord_mure {
+			{ 18 0 -8 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_salle_bord_mure {
+			{ 18 0 8 }
+			{ 1 1 -1 }
+			{ 0 0 0 0 }
+		}
+
+		block_salle_base_ele {
+			{ 26 0 0 }
+			{ -1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemure {
+			{ 26 0 8 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_sallemure {
+			{ 26 0 -8 }
+			{ 1 1 -1 }
+			{ 0 1 0 90 }
+		}
+
+		block_sallemurecouloir {
+			{ 34 0 0 }
+			{ -1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemurecoin {
+			{ 34 0 8 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_sallemurecoin {
+			{ 34 0 -8 }
+			{ -1 1 -1 }
+			{ 0 0 0 0 }
+		}
+		
+		
+		block_couloircroisement {
+			{ 42 0 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_couloirdroit {
+			{ 50 0 0 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_couloirescalier {
+			{ 55 0 0 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_couloirescalier {
+			{ 56 0.2 0 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_couloirescalier {
+			{ 57 0.4 0 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_couloirescalier {
+			{ 58 0.6 0 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_couloirescalier {
+			{ 59 0.8 0 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_couloirdroit {
+			{ 63 1 0 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_couloirsalle {
+			{ 71 1 0 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_teleporteur {
+			{ 71 1 0 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}	
+		block_couloirfin {
+			{ 71 1 6 }
+			{ 1 1 -1 }
+			{ 0 0 0 0 }
+		}
+		block_couloirfin {
+			{ 71 1 -6 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}		
+		block_couloirfin {
+			{ 77 1 0 }
+			{ -1 1 1 }
+			{ 0 1 0 90 }
+		}
+
+
+		
+		block_couloirdroit {
+			{ 42 0 8 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_couloirdroit {
+			{ 42 0 16 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemurecouloir {
+			{ 42 0 24 }
+			{ 1 1 1 }
+			{ 0 1 0 -90 }
+		}
+		block_salle_vide {
+			{ 42 0 32 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemurecoin {
+			{ 50 0 24 }
+			{ -1 1 -1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemure {
+			{ 50 0 32 }
+			{ -1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemurecoin {
+			{ 50 0 40 }
+			{ -1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemure {
+			{ 42 0 40 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+		block_sallemurecoin {
+			{ 34 0 40 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemurecouloir {
+			{ 34 0 32 }
+			{ 1 1 1 }
+			{ 0 0 0 0 }
+		}
+		block_sallemurecoin {
+			{ 34 0 24 }
+			{ 1 1 -1 }
+			{ 0 0 0 0 }
+		}
+
+		block_couloirdroit {
+			{ 26 0 32 }
+			{ 1 1 1 }
+			{ 0 1 0 90 }
+		}
+
+			block_couloirdroitbord {
+				{ 14 0 36 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_mure {
+				{ 14 -8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}		
+			block_mure {
+				{ 22 -8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 6 -8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 14 8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}		
+			block_mure {
+				{ 6 8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 22 8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 6 0 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 22 0 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ -2 8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ -2 0 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ -2 -8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 30 8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 30 0 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+			block_mure {
+				{ 30 -8 32 }
+				{ 1 1 1 }
+				{ 0 1 0 90 }
+			}
+		
+
+	
+			block_couloirdroit {
+				{ 42 0 -8 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_couloirdroit {
+				{ 42 0 -16 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_passerellebreak {
+				{ 42 0 -28 }
+				{ 1 1 1 }
+				{ 0 1 0 -90 }
+			}
+			block_couloirdroitbord {
+				{ 42 0 -24 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_mure {
+				{ 42 -8 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}		
+			block_mure {
+				{ 50 -8 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_mure {
+				{ 34 -8 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_mure {
+				{ 42 8 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}		
+			block_mure {
+				{ 50 8 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_mure {
+				{ 34 8 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_mure {
+				{ 50 0 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+			block_mure {
+				{ 34 0 -28 }
+				{ 1 1 1 }
+				{ 0 0 0 0 }
+			}
+
+				block_sallepilier {
+					{ 42 12 -40 }
+					{ -24 1 24 }
+					{ 0 1 0 90 }
+				}
+				block_salle {
+					{ 42 -12 -40 }
+					{ -24 1 24 }
+					{ 0 1 0 90 }
+				}
+				block_cubesky {
+					{ 42 0 -52 }
+					{ -24 24 1 }
+					{ 0 0 0 0 }
+				}
+				block_cubesky {
+					{ 30 0 -40 }
+					{ -1 24 -24 }
+					{ 0 1 0 90 }
+				}
+				block_cubesky {
+					{ 54 0 -40 }
+					{ -1 24 24 }
+					{ 0 1 0 90 }
+				}
+	}
+}

@@ -1,0 +1,15 @@
+//////////////////////////////////////////////////////////////////////////
+// winkeyb Header
+//////////////////////////////////////////////////////////////////////////
+// author	: Frederic Dubouchet
+// e-mail	: angel@calodox.org
+//////////////////////////////////////////////////////////////////////////
+// window keyboard handler. TODO change this for UNIX compatibility.
+
+#ifndef __3DSTEREO_WINKEYB_HEADER_DEFINED__
+#define __3DSTEREO_WINKEYB_HEADER_DEFINED__
+
+bool down(int key);
+bool up(int key);
+
+#endif // __3DSTEREO_WINKEYB_HEADER_DEFINED__
